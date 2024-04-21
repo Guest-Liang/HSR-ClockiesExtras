@@ -1,0 +1,5 @@
+/testfile
+*.pyc
+**/__pycache__
+/models/yolov9e.pt
+/models/yolov9c.pt
